@@ -8,9 +8,8 @@ var {
 
 var styles = StyleSheet.create({
   link: {
-    color: '#0000ff',
+    color: '#D6573D',
     flexWrap: 'wrap',
-    fontWeight: 'bold'
   },
   text: {
   },
